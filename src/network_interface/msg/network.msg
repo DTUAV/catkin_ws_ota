@@ -1,0 +1,2 @@
+uint32 message_type
+string data

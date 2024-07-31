@@ -1,0 +1,9 @@
+<launch>
+<node pkg = "network_interface" type = "network_interface_node" name = "network_interface_node" output = "screen">
+     <param name = "network_msg_sub_topic" value = "/network_interface/sub" />
+     <param name = "network_msg_pub_topic" value = "/network_interface/pub" />
+     <param name = "ip" value = "192.168.114.138" type = "string" />
+     <param name = "port" value = "6060" />
+     <param name = "recv_hz" value = "10.0" />
+</node>
+</launch>

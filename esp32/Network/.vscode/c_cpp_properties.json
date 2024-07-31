@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/yangyuanlin/catkin_ws_blimp/devel/include/**",
+        "/home/yangyuanlin/uwb-swarm/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/yangyuanlin/catkin_ws_blimp/src/cmd_interface/include/**",
+        "/home/yangyuanlin/catkin_ws_blimp/src/ekf_pose/include/**",
+        "/home/yangyuanlin/catkin_ws_blimp/src/optitrack_broadcast/include/**",
+        "/home/yangyuanlin/uwb-swarm/src/uwb_distributed_positioning/include/**",
+        "/home/yangyuanlin/catkin_ws_blimp/src/vrpn_client_ros/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

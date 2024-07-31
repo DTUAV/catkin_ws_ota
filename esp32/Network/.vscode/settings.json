@@ -1,0 +1,12 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/yangyuanlin/catkin_ws_blimp/devel/lib/python3/dist-packages",
+        "/home/yangyuanlin/uwb-swarm/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/yangyuanlin/catkin_ws_blimp/devel/lib/python3/dist-packages",
+        "/home/yangyuanlin/uwb-swarm/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}
